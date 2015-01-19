@@ -10,16 +10,7 @@ For the purpose of the course -
 	Appropriately label the data set with descriptive variable names
 	Create a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-### Files in this Repo
-1. This README file  
-2.Code Book or Data Dictionary for resultant summarized data set 
-* MS Word format 
-* pdf format
-3. run_analysis.R - source Rscript to process the information
-4. summaryData Files - processed summary data files 
-* TXT format
-* CSV format
-5. UCI HAR Dataset folder : all the datafiles used to complete the project
+
 
 ### Dataset Analysis 
 1. Measurements are explained in the "features_info.txt" and the labels for the measurements can be found in "features.txt"
